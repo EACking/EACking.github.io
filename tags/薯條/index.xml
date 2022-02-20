@@ -6,6 +6,7 @@
     <description>Recent content in 薯條 on 凱克的窩</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
+<<<<<<< HEAD
     <lastBuildDate>Sun, 20 Feb 2022 16:49:00 +0800</lastBuildDate><atom:link href="https://EACking.github.io/tags/%E8%96%AF%E6%A2%9D/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>漢堡跟薯條怎麼區分呢</title>
@@ -18,6 +19,9 @@
 應該不難辨認拉XDD</description>
     </item>
     
+=======
+    <lastBuildDate>Sun, 20 Feb 2022 16:09:00 +0800</lastBuildDate><atom:link href="https://EACking.github.io/tags/%E8%96%AF%E6%A2%9D/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> 9f8df3eeb0a28e7f034d65666154be8d5b9ec1bd
     <item>
       <title>凶暴的薯條</title>
       <link>https://EACking.github.io/blog/post-8/</link>
@@ -30,6 +34,20 @@
     </item>
     
     <item>
+<<<<<<< HEAD
+=======
+      <title>漢堡跟薯條怎麼區分呢</title>
+      <link>https://EACking.github.io/blog/post-12/</link>
+      <pubDate>Sun, 20 Feb 2022 16:09:00 +0800</pubDate>
+      
+      <guid>https://EACking.github.io/blog/post-12/</guid>
+      <description>漢堡跟薯條，有見過實體的人都很好辨認，漢堡好動都會在籠子顯眼處，薯條比較怕生都在掩蔽處，從外觀來看的話就是，漢堡的腳有乳牛狀的黑斑
+薯條則是整隻都是白色的~
+應該不難辨認拉XDD</description>
+    </item>
+    
+    <item>
+>>>>>>> 9f8df3eeb0a28e7f034d65666154be8d5b9ec1bd
       <title>美麗的鐵娘子薯條</title>
       <link>https://EACking.github.io/blog/post-5/</link>
       <pubDate>Thu, 03 Feb 2022 10:07:47 +0800</pubDate>
